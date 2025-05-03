@@ -1,0 +1,12 @@
+def menu () :
+    print("="*50)
+    print("\tEmployee Information System")
+    print("=" * 50)
+    print("\t1.Add Employee")
+    print("\t2.Delete Employee")
+    print("\t3.Search Employee")
+    print("\t4.Update Employee")
+    print("\t5.View Single Employee Details")
+    print("\t6.View all Employee Details")
+    print("\t7.Exit")
+    print("=" *50)
